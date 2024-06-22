@@ -1,6 +1,6 @@
 import React from 'react';
 import profilePic from '../images/profile.jpeg';
-
+import '../index.css';
 function HeroContent() {
     return (
         <div className="max-w-4xl mx-auto my-36 p-4 bg-white bg-opacity-10 rounded-lg flex items-start">

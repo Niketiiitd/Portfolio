@@ -1,4 +1,5 @@
 import React from 'react';
+import '../index.css';
 const Project = ({ heading, description, techStack, imageUrl }) => {
   return (
     <div className="max-w-4xl mx-auto my-44 p-4 bg-white bg-opacity-10 rounded-lg flex items-start">
