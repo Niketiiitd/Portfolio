@@ -1,5 +1,5 @@
 import React from 'react';
-import resume from '../documents/Resume.pdf'; // Ensure you have the resume PDF in your documents folder
+import resume from '../documents/Resume.pdf';
 import profilePic from '../images/profile.jpeg';
 import '../index.css';
 

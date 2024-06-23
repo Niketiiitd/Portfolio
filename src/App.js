@@ -55,7 +55,7 @@ function App() {
                 heading={project.heading}
                 description={project.description}
                 techStack={project.techStack}
-                imageUrl={project.imageUrl} // Ensure imageUrl is passed
+                imageUrl={project.imageUrl} 
               />
             </div>
           ))}
