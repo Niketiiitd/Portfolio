@@ -34,3 +34,25 @@ html, body, #root, .App {
   display: flex;
   flex-direction: column;
 }
+.fixed-box {
+  position: fixed;
+  right: 0;
+  top: 25%;
+  width: 3rem;
+  background-color: black;
+  border: 1px solid white;
+  border-radius: 0 0.5rem 0.5rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem 0;
+}
+
+.fixed-box a {
+  margin-bottom: 1rem;
+}
+
+.fixed-box img {
+  width: 2rem;
+  height: 2rem;
+}
